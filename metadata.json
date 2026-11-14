@@ -1,0 +1,6 @@
+{
+  "name": "AgriSense — Intelligent Crop Planning & Farm Decision Support",
+  "description": "AI-powered intelligent crop planning and farm decision support system with machine learning, soil health analytics, irrigation planning, yield prediction, multilingual voice assistance, and plant disease detection.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
